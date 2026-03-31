@@ -10,8 +10,9 @@ Here's what it looks like:
 
 
 <img width="1915" height="1019" alt="image" src="https://github.com/user-attachments/assets/f22bcb5f-4571-415b-9569-7f2c58222963" />
-I made it in Fusion 360 about a month ago
-# pcb:
+I made it in Fusion 360 about a month ago.
+
+# PCB:
 
 <img width="601" height="744" alt="image" src="https://github.com/user-attachments/assets/35cf3a0f-e9bc-4806-94de-4c0ecd1b8baa" />
 
