@@ -7,8 +7,9 @@ here's what it looks like:
 <img width="1915" height="1019" alt="Screenshot 2026-03-18 105010" src="https://github.com/user-attachments/assets/6036c961-84c3-44db-a0ec-eccd22f8f7f3" />
 i made it in fusion 360 about a month ago
 # pcb:
-<img width="587" height="747" alt="image" src="https://github.com/user-attachments/assets/fc26bc5a-7722-4ea0-a1c4-a3c26ad38a93" />
-<img width="900" height="677" alt="image" src="https://github.com/user-attachments/assets/6a5026a4-6799-4262-b64a-fa4fa703a47d" />
+<img width="1920" height="1020" alt="Capture d&#39;écran 2026-04-03 214713" src="https://github.com/user-attachments/assets/4388eeef-e5e7-434b-9c86-576704ca831e" />
+<img width="1920" height="1020" alt="Capture d&#39;écran 2026-04-03 214720" src="https://github.com/user-attachments/assets/724cb647-2ec0-44de-a9de-172e99ffe440" />
+
 
 
 this is what i came up with i hope it works
