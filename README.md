@@ -1,5 +1,5 @@
 # hackpad
-hackpad for hackclub blueprint i made in 17 hours
+hackpad for hackclub blueprint i made in 18 hours
 # CAD:
 here's what it looks like:
 <img width="1916" height="1015" alt="Screenshot 2026-03-18 105033" src="https://github.com/user-attachments/assets/fa654bd3-3e82-4d14-bcb8-479d88e76036" />
